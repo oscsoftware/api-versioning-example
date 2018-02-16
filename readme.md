@@ -42,7 +42,7 @@ No Annotation
 
 ## Authors
 
-* **William Gibbins** - wgibbin1@ford.com | will@integral.io
+* **William Gibbins** - w.d.gibbins@gmail.com
 
 ## License
 
